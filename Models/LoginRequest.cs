@@ -1,0 +1,7 @@
+namespace kv_be_csharp_dataapi_table.Models;
+
+public class LoginRequest
+{
+    public string email { get; set; } = string.Empty;
+    public string password { get; set; } = string.Empty;
+}
