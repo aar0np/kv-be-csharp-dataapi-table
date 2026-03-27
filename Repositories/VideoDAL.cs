@@ -1,7 +1,5 @@
-using System.Threading.Tasks;
 using DataStax.AstraDB.DataApi.Core;
 using kv_be_csharp_dataapi_table.Models;
-using Microsoft.AspNetCore.Mvc.Routing;
 
 namespace kv_be_csharp_dataapi_table.Repositories;
 
